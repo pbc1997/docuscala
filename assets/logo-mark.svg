@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Docuscala - isotipo</title>
+  <desc id="desc">Dos hojas documentales escalonadas con una marca de verificación.</desc>
+  <rect width="128" height="128" rx="24" fill="#153A5B"/>
+  <path d="M31 29h43l19 19v49H31z" fill="#FFFFFF"/>
+  <path d="M74 29v19h19" fill="#D9F0EC"/>
+  <path d="M44 61h33M44 72h25" stroke="#0B7A75" stroke-width="6" stroke-linecap="round"/>
+  <path d="M49 88l10 10 24-27" fill="none" stroke="#0B7A75" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# PLACEHOLDER: sustituir al configurar el dominio real.
+Sitemap: https://placeholder.invalid/sitemap.xml
